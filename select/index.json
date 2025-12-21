@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ホンメイ",
+  "base_artist": "Neo",
+  "createdAt": "2025-12-21T04:17:02.437535Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ホンメイ",
+      "artist": "Neo, Nqsi",
+      "has_synced": false,
+      "path": "select/pl_01_ホンメイ_Neo,_Nqsi.txt"
+    }
+  ]
+}
